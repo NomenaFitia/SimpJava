@@ -23,10 +23,10 @@ public class simp {
         for (int n : list) {
             
         	if ((n % 3 == 0) && (n % 5 == 0) ) {
-        		System.out.println(" FluzzGratz");
+        		System.out.println("FluzzGratz");
         	}
         	else if (n % 3 == 0) {
-        		System.out.println(" Fluzz");
+        		System.out.println("Fluzz");
         	}
             else if (n % 5 == 0){
                 System.out.println("Gratz");
